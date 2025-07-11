@@ -5,13 +5,11 @@ Each playback moment generates a new image based on the EEG window.
 
 <img src="eeg2landscape.png" alt="EEG to Landscape conversion output" width="600"/>
 
-Installation
-Clone the repository:
-text
+# Installation
 
-Copy
 pip install -r requirements.txt
-Usage
+
+# Usage
 
 Run the script: python eeg2landscape.py
 
@@ -23,6 +21,6 @@ Adjust speed with the slider; reset to clear.
 
 Supports standard EDF files; tested with basic EEG recordings.
 
-License
+# License
 
 Released under the MIT License. See LICENSE for details.
